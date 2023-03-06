@@ -24,7 +24,7 @@
             <id>maven-snapshots</id>
             <url>http://192.168.59.104:8081/repository/maven-snapshots/</url>
         </repository>
-    </distributionManagement>
+   </distributionManagement>
     <build>
     <finalName>google</finalName>
   </build>
