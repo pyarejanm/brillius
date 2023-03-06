@@ -20,10 +20,10 @@
             <id>maven-releases</id>
             <url>http://192.168.59.104:8081/repository/maven-releases/</url>
         </repository>
-        <snapshotrepository>
+        <snapshotRepository>
             <id>maven-snapshots</id>
             <url>http://192.168.59.104:8081/repository/maven-snapshots/</url>
-        </snapshotrepository>
+        </snapshotRepository>
    </distributionManagement>
     <build>
     <finalName>google</finalName>
